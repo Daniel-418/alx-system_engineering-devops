@@ -1,0 +1,9 @@
+#!usr/bin/env bash
+# This script kills a previous process
+
+while true
+do
+	echo "To infinity and beyond"
+	sleep 2
+	trap 'echo "I am invicible!!!"' SIGTERM
+done

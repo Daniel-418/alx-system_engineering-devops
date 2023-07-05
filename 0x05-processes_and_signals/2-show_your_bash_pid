@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This script is displaying "Best school" using the while loop
+# shellcheck disable=SC2009
+
+ps aux | grep bash

@@ -1,0 +1,4 @@
+#!usr/bin/env bash
+# This script kills a previous process
+
+pkill -f 4-to-infinity-and-beyond
