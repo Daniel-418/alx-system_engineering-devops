@@ -2,7 +2,7 @@
 # This script is displaying "Best school" using the until loop
 
 i=0
-until [ $i -eq 9 ]; do
+until [ $i -eq 10 ]; do
 	echo "Best School"
 	((i += 1))
 done
