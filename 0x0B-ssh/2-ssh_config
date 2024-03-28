@@ -1,0 +1,6 @@
+# Read more about SSH config files: https://linux.die.net/man/5/ssh_config
+Host alx
+    HostName 83e55f41f8e2.ef3c0f82.alx-cod.online
+    User 83e55f41f8e2
+    PasswordAuthentication no
+    IdentityFile ~/.ssh/school
